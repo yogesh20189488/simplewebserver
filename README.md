@@ -90,7 +90,7 @@ With 16GB DDR5-4800 RAM, the ASUS TUF Gaming A15 provides responsive memory perf
 web page
 ![alt text](<Screenshot (17).png>)
 web server
-![alt text](<Screenshot (16).png>)
+![alt text](<Screenshot (18).png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
